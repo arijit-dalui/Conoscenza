@@ -1,0 +1,118 @@
+.rounded{
+  margin-top: 10%;
+}
+
+
+
+#headcontent{
+  text-align: center;
+}
+
+
+
+.navbar-brand{
+  line-height: 1;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+
+.headpara{
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+}
+
+
+
+.searchitem{
+  margin-top: 5%;
+  margin-left: 40%;
+  width: 20%;
+  text-align: center;
+}
+
+
+
+.searchbtn{
+  margin-left: 1%;
+  margin-bottom: 0.47%;
+}
+
+
+
+footer{
+  text-align: center;
+  margin-top: 8%;
+  font-family: "Open Sans", sans-serif;
+}
+
+
+
+.contentbody{
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+
+
+.inline-search{
+  margin-left: 5%;
+  font-weight: lighter;
+  font-size: 80%;
+}
+
+
+
+.cardio{
+  background-color: #DA0037;
+}
+
+
+
+.credits{
+  text-align: center;
+  margin-top: 30%;
+}
+
+/* .composeinput{
+margin-left: 5%;
+margin-top: 10%;
+} */
+
+.inputform{
+  width:50%;
+  margin-top: 4%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+#feedback{
+  padding-top: 200px;
+  text-align: center;
+  display: block;
+}
+
+
+
+.duplicateh1{
+  text-align: center;
+  font-weight: normal;
+  margin:auto;
+}
+
+.abouth1{
+  text-align: center;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.footerp{
+  text-align: center;
+  margin-top: 10%;
+}
